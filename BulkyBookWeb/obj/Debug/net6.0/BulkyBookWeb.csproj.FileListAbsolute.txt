@@ -536,3 +536,4 @@ E:\Asp.Net Projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore
 E:\Asp.Net Projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 E:\Asp.Net Projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 E:\Asp.Net Projects\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
+E:\Asp.Net Projects\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.sourcelink.json
