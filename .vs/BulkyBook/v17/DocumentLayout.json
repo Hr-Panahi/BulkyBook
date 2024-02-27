@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Asp.Net Projects\\BulkyBook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:21:03.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "BulkyBookWeb\\Controllers\\CategoryController.cs",
               "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "BulkyBookWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAswGYAAAAAAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswHMAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T19:16:54.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IRepository.cs",
               "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T19:12:10.57Z",
               "EditorCaption": ""
