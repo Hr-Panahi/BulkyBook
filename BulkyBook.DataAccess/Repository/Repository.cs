@@ -33,7 +33,7 @@ namespace BulkyBook.DataAccess.Repository
 		{
 			IQueryable<T> query = dbSet;
 
-			query =query.Where(filter);
+			query = query.Where(filter);
 
 			return query.FirstOrDefault();
 		}
