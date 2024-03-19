@@ -17,9 +17,7 @@ namespace BulkyBookWeb
                 builder.Configuration.GetConnectionString("DefaultConnection")
                 )); //configuring connection to database
             
-            //Whenever we request an object of ICategoryRepository it will give us the implementation
-            //we have defined in CategoryRepository
-            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();    
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();    
             
             builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
             var app = builder.Build();
