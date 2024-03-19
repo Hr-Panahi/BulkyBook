@@ -39,7 +39,7 @@ namespace BulkyBookWeb
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{area=Costumer}/{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
         }
