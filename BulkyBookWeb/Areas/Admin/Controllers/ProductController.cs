@@ -58,11 +58,11 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
         // POST
         [HttpPost]
         [ValidateAntiForgeryToken] //to help and prevent cross-site request forgery attack
-        public IActionResult Upsert(CoverType obj)
+        public IActionResult Upsert(ProductVM obj, IFormFile file)
         {
             if (ModelState.IsValid)
             {
-                _unitOfWork.CoverType.Update(obj);
+                //_unitOfWork.CoverType.Update(obj);
                 _unitOfWork.Save(); //this post to database and saves all the changes
                 TempData["sucess"] = "Cover Type updated successfully."; //it stays for 
                 return RedirectToAction("Index");
