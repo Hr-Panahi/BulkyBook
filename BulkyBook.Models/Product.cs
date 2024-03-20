@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -39,7 +40,8 @@ namespace BulkyBook.Models
         [Range(1, 10000)]
         public double Price100 { get; set;}
 
-        public string ImageUrl { get; set; }
+		[ValidateNever]
+		public string ImageUrl { get; set; }
 
         #region ForeginKey relationship
         //we need foreign key relation - each book should be related to a category
@@ -47,11 +49,13 @@ namespace BulkyBook.Models
         [Required]
         public int CategoryId { get; set; }
         //[ForeignKey("CategoryId")] : we don't need to explicitly call this - EF Core automatically maps two properties.
+        [ValidateNever]
         public Category Category { get; set; }
 
         [Required]
         public int CoverTypeId { get; set; }
-        public CoverType CoverType { get; set; }
+		[ValidateNever]
+		public CoverType CoverType { get; set; }
         #endregion
 
     }

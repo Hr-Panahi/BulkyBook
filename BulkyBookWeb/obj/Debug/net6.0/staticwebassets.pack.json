@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\1b49d6e7-799b-4b8c-9167-418f93c7c815.png",
+      "PackagePath": "staticwebassets\\images\\products\\1b49d6e7-799b-4b8c-9167-418f93c7c815.png"
+    },
+    {
+      "Id": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
