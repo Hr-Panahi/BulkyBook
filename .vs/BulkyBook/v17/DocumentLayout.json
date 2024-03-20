@@ -42,8 +42,7 @@
               "RelativeToolTip": "BulkyBook.Models\\ViewModels\\ProductVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T13:13:48.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T13:13:48.406Z"
             },
             {
               "$type": "Document",
@@ -77,7 +76,7 @@
               "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
               "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
               "RelativeToolTip": "BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEMAAAAWAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-20T11:50:12.967Z",
               "EditorCaption": ""
@@ -92,8 +91,7 @@
               "RelativeToolTip": "BulkyBookWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAAAEUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:47:00.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T11:47:00.584Z"
             }
           ]
         }
