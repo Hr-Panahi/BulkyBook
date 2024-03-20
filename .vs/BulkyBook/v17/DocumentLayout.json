@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Asp.Net Projects\\BulkyBook\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T11:43:10.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T11:40:36.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
