@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\Asp.Net Projects\\BulkyBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E7FDBEE-9724-416E-98BA-EFDD0FB38196}|BulkyBook.Models\\BulkyBook.Models.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7FDBEE-9724-416E-98BA-EFDD0FB38196}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\areas\\costumer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\costumer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Migrations\\20240320112342_EditProductDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BulkyBook.DataAccess\\Migrations\\20240320112342_EditProductDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Migrations\\20240320112219_AddProductToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BulkyBook.DataAccess\\Migrations\\20240320112219_AddProductToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Costumer\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BulkyBookWeb\\Areas\\Costumer\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Title": "20240320112342_EditProductDb.cs",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Migrations\\20240320112342_EditProductDb.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Migrations\\20240320112342_EditProductDb.cs",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Migrations\\20240320112342_EditProductDb.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Migrations\\20240320112342_EditProductDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T12:13:45.6Z",
+              "WhenOpened": "2024-03-20T11:23:43.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240320112219_AddProductToDb.cs",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Migrations\\20240320112219_AddProductToDb.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Migrations\\20240320112219_AddProductToDb.cs",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Migrations\\20240320112219_AddProductToDb.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Migrations\\20240320112219_AddProductToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:22:19.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:20:02.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T12:00:00.968Z",
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.Models\\Product.cs",
+              "RelativeDocumentMoniker": "BulkyBook.Models\\Product.cs",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.Models\\Product.cs",
+              "RelativeToolTip": "BulkyBook.Models\\Product.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwDYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:10:34.619Z",
               "EditorCaption": ""
             }
           ]
