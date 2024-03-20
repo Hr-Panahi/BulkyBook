@@ -19,48 +19,29 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
             return View(objCoverTypeList);
         }
 
-        //Get action method
-        public IActionResult Create()
-        {
-            return View();
-        }
-
-        // POST
-        [HttpPost]
-        [ValidateAntiForgeryToken] //to help and prevent cross-site request forgery attack
-        public IActionResult Create(CoverType obj)
-        {
-            if (ModelState.IsValid)
-            {
-                _unitOfWork.CoverType.Add(obj);
-                _unitOfWork.Save(); //this post to database and saves all the changes
-                TempData["sucess"] = "Cover Type created successfully.";
-                return RedirectToAction("Index");
-            }
-            return View(obj);
-        }
-
-
+        
         //Get
-        public IActionResult Edit(int? id)
+        //One action method to handle both Insert and Update => Upsert
+        public IActionResult Upsert(int? id)
         {
+            Product product = new();
             if (id == null || id == 0)
             {
-                return NotFound();
+                //create product
+                return View(product);
             }
-            var coverTypeFromDbFirst = _unitOfWork.CoverType.GetFirstOrDefault(u => u.Id == id);
-
-            if (coverTypeFromDbFirst == null)
+            else
             {
-                return NotFound();
+                //update product
             }
-            return View(coverTypeFromDbFirst);
+
+            return View(product);
         }
 
         // POST
         [HttpPost]
         [ValidateAntiForgeryToken] //to help and prevent cross-site request forgery attack
-        public IActionResult Edit(CoverType obj)
+        public IActionResult Upsert(CoverType obj)
         {
             if (ModelState.IsValid)
             {
