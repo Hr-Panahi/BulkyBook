@@ -21,6 +21,18 @@
       "PackagePath": "staticwebassets\\images\\products\\1b49d6e7-799b-4b8c-9167-418f93c7c815.png"
     },
     {
+      "Id": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\3774e453-a791-4b7c-9519-98797487dea7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3774e453-a791-4b7c-9519-98797487dea7.jpg"
+    },
+    {
+      "Id": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\4e5f7284-e370-46af-9f80-99b8209777a6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4e5f7284-e370-46af-9f80-99b8209777a6.jpg"
+    },
+    {
+      "Id": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\929d0e98-525a-40a8-a83c-554fae410ecf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\929d0e98-525a-40a8-a83c-554fae410ecf.jpg"
+    },
+    {
       "Id": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
