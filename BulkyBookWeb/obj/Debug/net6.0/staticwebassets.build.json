@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Db2lGb3equH+qbdvbyFmr3N4vlECUmdSNdmy/7Brfms=",
+  "Hash": "PeolxhALDhy9iL1a6hl8wDQspR9DYEnPFZOsv76D9bo=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -131,6 +131,25 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\1b49d6e7-799b-4b8c-9167-418f93c7c815.png"
     },
     {
+      "Identity": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\5a432d78-6821-488a-8ad9-7ee8cf0814da.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/products/5a432d78-6821-488a-8ad9-7ee8cf0814da.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\5a432d78-6821-488a-8ad9-7ee8cf0814da.jpg"
+    },
+    {
       "Identity": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\929d0e98-525a-40a8-a83c-554fae410ecf.jpg",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
@@ -148,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\929d0e98-525a-40a8-a83c-554fae410ecf.jpg"
+    },
+    {
+      "Identity": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\9af9fe70-7eed-479e-a134-c574412d445a.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/products/9af9fe70-7eed-479e-a134-c574412d445a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\9af9fe70-7eed-479e-a134-c574412d445a.jpg"
     },
     {
       "Identity": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\a98d9c50-88c5-4d56-adaf-f77298c51d23.jpg",
