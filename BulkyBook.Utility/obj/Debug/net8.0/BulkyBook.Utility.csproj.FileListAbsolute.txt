@@ -1,0 +1,12 @@
+E:\Asp.Net Projects\BulkyBook\BulkyBook.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+E:\Asp.Net Projects\BulkyBook\BulkyBook.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+E:\Asp.Net Projects\BulkyBook\BulkyBook.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+E:\Asp.Net Projects\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.Net Projects\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+E:\Asp.Net Projects\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+E:\Asp.Net Projects\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+E:\Asp.Net Projects\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+E:\Asp.Net Projects\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+E:\Asp.Net Projects\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+E:\Asp.Net Projects\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+E:\Asp.Net Projects\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
