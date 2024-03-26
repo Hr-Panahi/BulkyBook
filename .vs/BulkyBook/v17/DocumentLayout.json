@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Asp.Net Projects\\BulkyBook\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\areas\\admin\\views\\company\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\admin\\views\\company\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\areas\\admin\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\admin\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T22:32:16.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwvzoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T22:25:51.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "company.js",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\company.js",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\wwwroot\\js\\company.js",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\company.js",
+              "RelativeToolTip": "BulkyBookWeb\\wwwroot\\js\\company.js",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-26T22:24:45.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Company\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Admin\\Views\\Company\\Index.cshtml",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Company\\Index.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Areas\\Admin\\Views\\Company\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T22:24:20.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
