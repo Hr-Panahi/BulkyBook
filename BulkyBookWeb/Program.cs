@@ -18,7 +18,8 @@ namespace BulkyBookWeb
                 builder.Configuration.GetConnectionString("DefaultConnection")
                 )); //configuring connection to database
 
-            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ApplicationDbContext>();
+            builder.Services.AddDefaultIdentity<IdentityUser>()
+                .AddEntityFrameworkStores<ApplicationDbContext>();
             
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();    
             
@@ -37,10 +38,10 @@ namespace BulkyBookWeb
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseRouting();
-            app.MapRazorPages();
 
             app.UseAuthorization();
 
+            app.MapRazorPages();
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{area=Costumer}/{controller=Home}/{action=Index}/{id?}");
