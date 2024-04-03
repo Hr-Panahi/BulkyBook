@@ -4924,6 +4924,19 @@
         "runtime": {
           "bin/placeholder/BulkyBook.Models.dll": {}
         }
+      },
+      "BulkyBook.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "8.0.3"
+        },
+        "compile": {
+          "bin/placeholder/BulkyBook.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BulkyBook.Utility.dll": {}
+        }
       }
     }
   },
@@ -14043,11 +14056,17 @@
       "type": "project",
       "path": "../BulkyBook.Models/BulkyBook.Models.csproj",
       "msbuildProject": "../BulkyBook.Models/BulkyBook.Models.csproj"
+    },
+    "BulkyBook.Utility/1.0.0": {
+      "type": "project",
+      "path": "../BulkyBook.Utility/BulkyBook.Utility.csproj",
+      "msbuildProject": "../BulkyBook.Utility/BulkyBook.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "BulkyBook.DataAccess >= 1.0.0",
+      "BulkyBook.Utility >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.3",
       "Microsoft.AspNetCore.Identity.UI >= 8.0.3",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 8.0.3",
@@ -14092,6 +14111,9 @@
           "projectReferences": {
             "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
               "projectPath": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
+            },
+            "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+              "projectPath": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
             }
           }
         }
