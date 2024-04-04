@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\Asp.Net Projects\\BulkyBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E7FDBEE-9724-416E-98BA-EFDD0FB38196}|BulkyBook.Models\\BulkyBook.Models.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E7FDBEE-9724-416E-98BA-EFDD0FB38196}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Migrations\\20240404174150_addShoppingCartToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BulkyBook.DataAccess\\Migrations\\20240404174150_addShoppingCartToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240404174150_addShoppingCartToDb.cs",
-              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Migrations\\20240404174150_addShoppingCartToDb.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Migrations\\20240404174150_addShoppingCartToDb.cs",
-              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Migrations\\20240404174150_addShoppingCartToDb.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Migrations\\20240404174150_addShoppingCartToDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:41:50.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:40:00.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.Models\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "BulkyBook.Models\\ShoppingCart.cs",
-              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.Models\\ShoppingCart.cs",
-              "RelativeToolTip": "BulkyBook.Models\\ShoppingCart.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBwAAAAAAAAA",
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:33:16.148Z",
+              "WhenOpened": "2024-04-04T17:50:53.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:50:22.1Z",
               "EditorCaption": ""
             }
           ]
