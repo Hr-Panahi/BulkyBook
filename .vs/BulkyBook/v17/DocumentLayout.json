@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "E:\\Asp.Net Projects\\BulkyBook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\areas\\costumer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\costumer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069FAA3F-5E82-49D2-85D1-DEFB3D3BA402}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\areas\\costumer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\costumer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\areas\\costumer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\costumer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:22:30.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:21:44.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
               "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
               "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBUAAAA7AAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:50:53.363Z",
+              "WhenOpened": "2024-04-04T18:14:22.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Costumer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Areas\\Costumer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T18:02:21.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Costumer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Areas\\Costumer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T17:54:51.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Costumer\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BulkyBookWeb\\Areas\\Costumer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:50:22.1Z",
+              "WhenOpened": "2024-04-04T17:53:06.143Z",
               "EditorCaption": ""
             }
           ]
