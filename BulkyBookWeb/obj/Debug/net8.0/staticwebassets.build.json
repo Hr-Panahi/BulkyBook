@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TwD+nichZ5OWqDwonaIshJY3T5B2CPa3o/mKUwXg2fc=",
+  "Hash": "mtPo9OaNcanquJ6tY1Rg+LP3Ddgs+pHJZaXrNxONPB4=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1364,6 +1364,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\d34f1486-a65c-45b8-8315-8d206babd122.png"
+    },
+    {
+      "Identity": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\eb59c355-6c66-4280-849b-e7f933f7a588.png",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/products/eb59c355-6c66-4280-849b-e7f933f7a588.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\eb59c355-6c66-4280-849b-e7f933f7a588.png"
     },
     {
       "Identity": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\company.js",

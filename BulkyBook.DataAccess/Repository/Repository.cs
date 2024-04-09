@@ -25,10 +25,13 @@ namespace BulkyBook.DataAccess.Repository
 		}
 
 		//includeProp - "Category,CoverType"
-		public IEnumerable<T> GetAll(Expression<Func<T, bool>> filter, string? includeProperties = null)
+		public IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter=null, string? includeProperties = null)
 		{
 			IQueryable<T> query = dbSet;
-            query = query.Where(filter);
+			if(filter != null)
+			{
+                query = query.Where(filter);
+            }
 
             if (includeProperties != null)
 			{

@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\images\\products\\d34f1486-a65c-45b8-8315-8d206babd122.png"
     },
     {
+      "Id": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\eb59c355-6c66-4280-849b-e7f933f7a588.png",
+      "PackagePath": "staticwebassets\\images\\products\\eb59c355-6c66-4280-849b-e7f933f7a588.png"
+    },
+    {
       "Id": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
     },
