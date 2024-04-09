@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\costumer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E7FDBEE-9724-416E-98BA-EFDD0FB38196}|BulkyBook.Models\\BulkyBook.Models.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E7FDBEE-9724-416E-98BA-EFDD0FB38196}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\areas\\costumer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\costumer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\areas\\costumer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\costumer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|e:\\asp.net projects\\bulkybook\\bulkybookweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C7B1C0-1723-4467-8026-3A70C0BA826C}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7FDBEE-9724-416E-98BA-EFDD0FB38196}|BulkyBook.Models\\BulkyBook.Models.csproj|e:\\asp.net projects\\bulkybook\\bulkybook.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7FDBEE-9724-416E-98BA-EFDD0FB38196}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T21:52:11.471Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,40 +53,40 @@
               "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Costumer\\Views\\Cart\\Summary.cshtml",
               "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Views\\Cart\\Summary.cshtml",
               "RelativeToolTip": "BulkyBookWeb\\Areas\\Costumer\\Views\\Cart\\Summary.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAD8AAABWAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADMAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-09T19:45:59.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Costumer\\Views\\Cart\\Index.cshtml",
               "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Views\\Cart\\Index.cshtml",
               "RelativeToolTip": "BulkyBookWeb\\Areas\\Costumer\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-09T19:37:29.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CartController.cs",
               "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Costumer\\Controllers\\CartController.cs",
               "ToolTip": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\Areas\\Costumer\\Controllers\\CartController.cs",
               "RelativeToolTip": "BulkyBookWeb\\Areas\\Costumer\\Controllers\\CartController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAIwCgAAAAkAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAArwE4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T19:36:58.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ShoppingCartVM.cs",
               "DocumentMoniker": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBook.Models\\ViewModels\\ShoppingCartVM.cs",
               "RelativeDocumentMoniker": "BulkyBook.Models\\ViewModels\\ShoppingCartVM.cs",

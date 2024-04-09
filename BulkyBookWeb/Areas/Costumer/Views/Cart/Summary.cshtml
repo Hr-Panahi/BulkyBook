@@ -13,6 +13,7 @@
                                         <h1 class="fw-bold mb-0 text-black">Summary</h1>
                                     </div>
                                     <hr class="my-4">
+                                    <form asp-action="Summary" method="post">
 
                                     <h3 class="fw-bold mb-4">Total Price</h3>
                                     <h4>Total Price</h4>
@@ -33,36 +34,35 @@
                                         </li>
                                     </ul>
                                     <!-- Input fields for customer information -->
-                                    <form asp-controller="Checkout" asp-action="ProcessOrder" method="post">
                                         <div class="mb-3">
                                             <label for="name" class="form-label">Name</label>
-                                            <input asp-for="OrderHeader.Name" type="text" class="form-control" id="name" name="Name" required>
+                                            <input asp-for="OrderHeader.Name" type="text" class="form-control">
                                             <span asp-validation-for="OrderHeader.Name" class="text-danger"></span>
                                         </div>
                                         <div class="mb-3">
                                             <label for="name" class="form-label">Phone</label>
-                                            <input asp-for="OrderHeader.PhoneNumber" type="text" class="form-control" id="name" name="Phone" required>
+                                            <input asp-for="OrderHeader.PhoneNumber" type="text" class="form-control">
                                             <span asp-validation-for="OrderHeader.PhoneNumber" class="text-danger"></span>
                                         </div>
                                         <div class="mb-3">
                                             <label for="name" class="form-label">Street Address</label>
-                                            <input asp-for="OrderHeader.StreetAddress" type="text" class="form-control" id="name" name="Phone" required>
+                                            <input asp-for="OrderHeader.StreetAddress" type="text" class="form-control">
                                             <span asp-validation-for="OrderHeader.StreetAddress" class="text-danger"></span>
                                         </div>
                                         <div class="mb-3">
                                             <label for="name" class="form-label">City</label>
-                                            <input asp-for="OrderHeader.City" type="text" class="form-control" id="name" name="Phone" required>
+                                            <input asp-for="OrderHeader.City" type="text" class="form-control">
                                             <span asp-validation-for="OrderHeader.City" class="text-danger"></span>
                                         </div>
                                         <div class="row mb-3">
                                             <div class="col">
                                                 <label for="name" class="form-label">State</label>
-                                                <input asp-for="OrderHeader.State" type="text" class="form-control" id="name" name="Phone" required>
+                                                <input asp-for="OrderHeader.State" type="text" class="form-control"d>
                                                 <span asp-validation-for="OrderHeader.State" class="text-danger"></span>
                                             </div>
                                             <div class="col">
                                                 <label for="name" class="form-label">Postal Code</label>
-                                                <input asp-for="OrderHeader.PostalCode" type="text" class="form-control" id="name" name="Phone" required>
+                                                <input asp-for="OrderHeader.PostalCode" type="text" class="form-control">
                                                 <span asp-validation-for="OrderHeader.PostalCode" class="text-danger"></span>
                                             </div>
                                         </div>
@@ -71,7 +71,9 @@
                                                 @DateTime.Now.AddDays(7).ToShortDateString() - @DateTime.Now.AddDays(14).ToShortDateString()
                                             </p>
                                         </div>
-                                        <button type="submit" class="btn btn-dark btn-lg">Place Order</button>
+                                        <button  type="submit" class="btn btn-dark btn-lg">
+                                           Place Order
+                                        </button>
                                     </form>
                                 </div>
                             </div>
