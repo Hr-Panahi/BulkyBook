@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Fqp2NyB2WISwPrrIcoFoCovs1Vk/q2fB8/WOj7UDgY8icnhBgrltTMzh37lXd4JcrX1UJY7kBiTcQFQEYXuKxA==",
+  "dgSpecHash": "XvKGjHT1tryE19SUOiAJT7DZVIZ3+q2XZQdsczD+yvR/NODpcdcmK4UVe221N+7KvvO5pMW5Mb7X8U6+ETYUrA==",
   "success": true,
   "projectFilePath": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
   "expectedPackageFiles": [
@@ -192,6 +192,7 @@
     "C:\\Users\\asus\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\stripe.net\\43.23.0\\stripe.net.43.23.0.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",

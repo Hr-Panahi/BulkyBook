@@ -1,4 +1,6 @@
 ﻿@model BulkyBook.Models.ViewModels.ShoppingCartVM
+@using Microsoft.Extensions.Options
+@inject IOptions<BulkyBook.Utility.StripeSettings> Stripe
 
 <section class="h-100 h-custom" style="background-color: #d2c9ff;">
     <div class="container py-5 h-100">

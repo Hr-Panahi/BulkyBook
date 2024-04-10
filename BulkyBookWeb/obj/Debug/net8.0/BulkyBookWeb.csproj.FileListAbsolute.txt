@@ -591,3 +591,4 @@ E:\Asp.Net Projects\BulkyBook\BulkyBookWeb\bin\Debug\net8.0\runtimes\win-x64\nat
 E:\Asp.Net Projects\BulkyBook\BulkyBookWeb\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 E:\Asp.Net Projects\BulkyBook\BulkyBookWeb\bin\Debug\net8.0\BulkyBook.Utility.dll
 E:\Asp.Net Projects\BulkyBook\BulkyBookWeb\bin\Debug\net8.0\BulkyBook.Utility.pdb
+E:\Asp.Net Projects\BulkyBook\BulkyBookWeb\bin\Debug\net8.0\Stripe.net.dll

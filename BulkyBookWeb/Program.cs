@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using BulkyBook.Utility;
+using Stripe;
 
 namespace BulkyBookWeb
 {
@@ -19,6 +20,7 @@ namespace BulkyBookWeb
             builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
                 builder.Configuration.GetConnectionString("DefaultConnection")
                 )); //configuring connection to database
+            builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe")); //stripe configuration
             builder.Services.AddIdentity<IdentityUser,IdentityRole>().AddDefaultTokenProviders()
                 .AddEntityFrameworkStores<ApplicationDbContext>();           
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
@@ -44,6 +46,9 @@ namespace BulkyBookWeb
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseRouting();
+
+            //assign global API Key for stripe inside pipeline
+            StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:SecretKey").Get<string>();
 
             app.UseAuthorization();
 
