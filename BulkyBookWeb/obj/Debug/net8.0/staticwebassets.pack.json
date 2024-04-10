@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\js\\company.js"
     },
     {
+      "Id": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
       "Id": "E:\\Asp.Net Projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
