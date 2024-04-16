@@ -3,6 +3,8 @@
     var pending = "text-primary";
     var inprocess = "text-primary";
     var completed = "text-primary";
+    var approved = "text-primary";
+
     var all = "text-primary";
 
     switch (status)
@@ -11,13 +13,16 @@
             pending = "active text-white";
             break;
         case "inprocess":
-            pending = "active text-white";
+            inprocess = "active";
             break;
         case "completed":
-            completed = "active text-white";
+            completed = "active";
+            break;
+        case "approved":
+            approved = "active";
             break;
         default:
-        all = "active text-white";
+        all = "active";
             break;
     }
 }
@@ -30,7 +35,7 @@
         <div class="p-2">
             <ul class="list-group list-group-horizontal-sm">
                 <a style="text-decoration:none" asp-controller="Order"
-                    -action="Index" asp-route-status="inprocess">
+                    asp-action="Index" asp-route-status="inprocess">
                     <li class="list-group-item" @inprocess>In Prcoess</li>
                 </a>
                 <a style="text-decoration:none" asp-controller="Order"
@@ -40,6 +45,10 @@
                 <a style="text-decoration:none" asp-controller="Order"
                    asp-action="Index" asp-route-status="completed">
                     <li class="list-group-item" @completed>Completed</li>
+                </a>
+                <a style="text-decoration:none" asp-controller="Order"
+                   asp-action="Index" asp-route-status="approved">
+                <li class="list-group-item" @approved>approved</li>
                 </a>
                 <a style="text-decoration:none" asp-controller="Order"
                    asp-action="Index" asp-route-status="all">
